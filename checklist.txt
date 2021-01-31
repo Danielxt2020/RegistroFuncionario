@@ -1,0 +1,8 @@
+- Principais fundamentos de List.
+- Operações de List Find, FinAll.
+- Expreções Lâmbida. 
+- foreach.
+- laços de repetição.
+
+ O programa consiste em adicionar um salário percentual, com base 
+no Id do funcionário.

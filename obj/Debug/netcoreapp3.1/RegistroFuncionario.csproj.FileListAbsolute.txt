@@ -1,0 +1,13 @@
+C:\Users\danie\source\repos\RegistroFuncionario\bin\Debug\netcoreapp3.1\RegistroFuncionario.exe
+C:\Users\danie\source\repos\RegistroFuncionario\bin\Debug\netcoreapp3.1\RegistroFuncionario.deps.json
+C:\Users\danie\source\repos\RegistroFuncionario\bin\Debug\netcoreapp3.1\RegistroFuncionario.runtimeconfig.json
+C:\Users\danie\source\repos\RegistroFuncionario\bin\Debug\netcoreapp3.1\RegistroFuncionario.runtimeconfig.dev.json
+C:\Users\danie\source\repos\RegistroFuncionario\bin\Debug\netcoreapp3.1\RegistroFuncionario.dll
+C:\Users\danie\source\repos\RegistroFuncionario\bin\Debug\netcoreapp3.1\RegistroFuncionario.pdb
+C:\Users\danie\source\repos\RegistroFuncionario\obj\Debug\netcoreapp3.1\RegistroFuncionario.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\RegistroFuncionario\obj\Debug\netcoreapp3.1\RegistroFuncionario.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\RegistroFuncionario\obj\Debug\netcoreapp3.1\RegistroFuncionario.AssemblyInfo.cs
+C:\Users\danie\source\repos\RegistroFuncionario\obj\Debug\netcoreapp3.1\RegistroFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\RegistroFuncionario\obj\Debug\netcoreapp3.1\RegistroFuncionario.dll
+C:\Users\danie\source\repos\RegistroFuncionario\obj\Debug\netcoreapp3.1\RegistroFuncionario.pdb
+C:\Users\danie\source\repos\RegistroFuncionario\obj\Debug\netcoreapp3.1\RegistroFuncionario.genruntimeconfig.cache
